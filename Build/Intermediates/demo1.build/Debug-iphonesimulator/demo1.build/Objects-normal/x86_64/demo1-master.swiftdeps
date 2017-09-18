@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "22558c97802b2fbd3b446e6504a69a0c"
+build_time: [559039787, 618891000]
+inputs:
+  "/Users/jcrzry/Documents/demos/demo1/demo1/ViewController.swift": [559029502, 0]
+  "/Users/jcrzry/Documents/demos/demo1/demo1/gettyImg.swift": [559022113, 0]
+  "/Users/jcrzry/Documents/demos/demo1/demo1/displayVC.swift": [559038888, 0]
+  "/Users/jcrzry/Documents/demos/demo1/demo1/AppDelegate.swift": [558594729, 0]
+  "/Users/jcrzry/Documents/demos/demo1/demo1/apiSession.swift": [558909941, 0]

@@ -1,0 +1,23 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "a80f6c48ddfeaeb5ec7c89d1b5267500"
+build_time: [559039784, 136721000]
+inputs:
+  "/Users/jcrzry/Documents/demos/demo1/Pods/SKPhotoBrowser/SKPhotoBrowser/SKAnimator.swift": [559038039, 0]
+  "/Users/jcrzry/Documents/demos/demo1/Pods/SKPhotoBrowser/SKPhotoBrowser/SKButtons.swift": [559038039, 0]
+  "/Users/jcrzry/Documents/demos/demo1/Pods/SKPhotoBrowser/SKPhotoBrowser/SKCache.swift": [559038039, 0]
+  "/Users/jcrzry/Documents/demos/demo1/Pods/SKPhotoBrowser/SKPhotoBrowser/SKCacheable.swift": [559038039, 0]
+  "/Users/jcrzry/Documents/demos/demo1/Pods/SKPhotoBrowser/SKPhotoBrowser/SKCaptionView.swift": [559038039, 0]
+  "/Users/jcrzry/Documents/demos/demo1/Pods/SKPhotoBrowser/SKPhotoBrowser/SKDetectingImageView.swift": [559038039, 0]
+  "/Users/jcrzry/Documents/demos/demo1/Pods/SKPhotoBrowser/SKPhotoBrowser/SKDetectingView.swift": [559038039, 0]
+  "/Users/jcrzry/Documents/demos/demo1/Pods/SKPhotoBrowser/SKPhotoBrowser/SKIndicatorView.swift": [559038039, 0]
+  "/Users/jcrzry/Documents/demos/demo1/Pods/SKPhotoBrowser/SKPhotoBrowser/SKLocalPhoto.swift": [559038039, 0]
+  "/Users/jcrzry/Documents/demos/demo1/Pods/SKPhotoBrowser/SKPhotoBrowser/SKMesurement.swift": [559038039, 0]
+  "/Users/jcrzry/Documents/demos/demo1/Pods/SKPhotoBrowser/SKPhotoBrowser/SKPagingScrollView.swift": [559038039, 0]
+  "/Users/jcrzry/Documents/demos/demo1/Pods/SKPhotoBrowser/SKPhotoBrowser/SKPhoto.swift": [559038039, 0]
+  "/Users/jcrzry/Documents/demos/demo1/Pods/SKPhotoBrowser/SKPhotoBrowser/SKPhotoBrowser.swift": [559038039, 0]
+  "/Users/jcrzry/Documents/demos/demo1/Pods/SKPhotoBrowser/SKPhotoBrowser/SKPhotoBrowserDelegate.swift": [559038039, 0]
+  "/Users/jcrzry/Documents/demos/demo1/Pods/SKPhotoBrowser/SKPhotoBrowser/SKPhotoBrowserOptions.swift": [559038039, 0]
+  "/Users/jcrzry/Documents/demos/demo1/Pods/SKPhotoBrowser/SKPhotoBrowser/SKToolbar.swift": [559038039, 0]
+  "/Users/jcrzry/Documents/demos/demo1/Pods/SKPhotoBrowser/SKPhotoBrowser/SKZoomingScrollView.swift": [559038039, 0]
+  "/Users/jcrzry/Documents/demos/demo1/Pods/SKPhotoBrowser/SKPhotoBrowser/extensions/UIImage+Rotation.swift": [559038039, 0]
+  "/Users/jcrzry/Documents/demos/demo1/Pods/SKPhotoBrowser/SKPhotoBrowser/extensions/UIView+Radius.swift": [559038039, 0]

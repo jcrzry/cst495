@@ -7,12 +7,14 @@
 //
 
 import UIKit
-
+import SKPhotoBrowser
 class DisplayViewController: UIViewController {
+    
     
     //var passedJSON: JSON;
     var images: [gettyImg] = []
     var searchText: String!
+    var imgUrls = [SKPhoto]()
     	
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -55,10 +57,17 @@ class DisplayViewController: UIViewController {
                             }
                             let temp = gettyImg(title: i["title"] as! String,url: imgUrl as! String,id: Int((i["id"] as! NSString).intValue),caption: cap)
                             self.images.append(temp)
-                            print(self.images)
+                            let photo = SKPhoto.photoWithImageURL(imgUrl as! String)
+                            photo.caption = cap
+                            self.imgUrls.append(photo)
+                            
+                            //print(self.images)
                             //print("Size of images inside", self.images.count)
                         }
                         //self.images = taskImages
+                        let browser = SKPhotoBrowser(photos: self.imgUrls)
+                        browser.initializePageIndex(0)
+                        self.present(browser, animated: true, completion: {})
                     }
                 }catch{
                     print("error in json")

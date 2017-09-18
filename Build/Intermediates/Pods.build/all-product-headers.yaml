@@ -1,0 +1,65 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/jcrzry/Documents/demos/demo1/Build/Products/Debug-iphonesimulator/Pods_demo1.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-demo1-umbrella.h",
+          'external-contents': "/Users/jcrzry/Documents/demos/demo1/Pods/Target Support Files/Pods-demo1/Pods-demo1-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_demo1-Swift.h",
+          'external-contents': "/Users/jcrzry/Documents/demos/demo1/Build/Products/Debug-iphonesimulator/Pods_demo1.framework/Headers/Pods_demo1-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jcrzry/Documents/demos/demo1/Build/Products/Debug-iphonesimulator/Pods_demo1.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/jcrzry/Documents/demos/demo1/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-demo1.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jcrzry/Documents/demos/demo1/Build/Products/Debug-iphonesimulator/SKPhotoBrowser/SKPhotoBrowser.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SKPhotoBrowser-Swift.h",
+          'external-contents': "/Users/jcrzry/Documents/demos/demo1/Build/Products/Debug-iphonesimulator/SKPhotoBrowser/SKPhotoBrowser.framework/Headers/SKPhotoBrowser-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SKPhotoBrowser-umbrella.h",
+          'external-contents': "/Users/jcrzry/Documents/demos/demo1/Pods/Target Support Files/SKPhotoBrowser/SKPhotoBrowser-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SKPhotoBrowser.h",
+          'external-contents': "/Users/jcrzry/Documents/demos/demo1/Pods/SKPhotoBrowser/SKPhotoBrowser/SKPhotoBrowser.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jcrzry/Documents/demos/demo1/Build/Products/Debug-iphonesimulator/SKPhotoBrowser/SKPhotoBrowser.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/jcrzry/Documents/demos/demo1/Build/Intermediates/Pods.build/Debug-iphonesimulator/SKPhotoBrowser.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
